@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Drashti Chag
-**A passionate Project Coordinator || AI Engineer **
+**A passionate Project Coordinator || AI Engineer || Content Creator**
 
 - 🔭 **I’m currently working on:** AICTE project 
 - 🌱 **I’m currently learning:** AIML/Data Science/Fullstack
