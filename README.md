@@ -2,7 +2,7 @@
 **A passionate Project Coordinator || AI Engineer || Content Creator**
 
 - 🔭 **I’m currently working on:** AICTE project 
-- 🌱 **I’m currently learning:** AIML/Data Science/Fullstack
+- 🌱 **I’m currently learning:** Project Coordinator/AIML/Data Science
 - 📫 **How to reach me:** chagdrashti@gmail.com
 - ⚡ **I don’t just love tech—tech and I are in a lifelong relationship. It sparks my mind, and I spark innovation. 💡❤️🤖** 
 ## 🔗 Socials:
